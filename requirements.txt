@@ -1,2 +1,6 @@
+pandas
+plotly
 streamlit
-replicate
+yfinance
+pandas-datareader
+prophet
